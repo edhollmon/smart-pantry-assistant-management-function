@@ -74,7 +74,5 @@ exports.dialogflowWebhook = functions.https.onRequest(async (req, res) => {
 ```
 
 ## Resources
-## Resources
-
 - [Smart Pantry Assistant: Project Execution Plan](https://docs.google.com/document/d/1JssDPkg--uEA79bTqc58HewIPLeJNF53QGX8u9A5C-o/edit?usp=sharing)
 - [Smart Pantry Assistant: Project Overview](https://docs.google.com/document/d/1M_RUGyyI8DmCIYrEZMCRjs2C1C4-Znz6BI2Gmj3ZLoY/edit?usp=sharing)
